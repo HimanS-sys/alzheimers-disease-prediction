@@ -35,7 +35,7 @@ Ensemble models that predict the severity of Alzheimer's Disease.
 ### Tree Based Model
 
 - Different models ranging from linear to ensemble-based were used to predict if the given patient had dementia or not.
-- Download this [notebook]().
+- Download this [notebook](https://github.com/HimanS-sys/alzheimers-disease-prediction/blob/main/dimentia_pred.ipynb).
 - [Click here!]() to view this notebook interactively without running.
 
 ### 3D CNN Model on T1-weighted MRI Scans
