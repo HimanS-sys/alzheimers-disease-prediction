@@ -36,9 +36,13 @@ Ensemble models that predict the severity of Alzheimer's Disease.
 
 - Different models ranging from linear to ensemble-based were used to predict if the given patient had dementia or not.
 - Download this [notebook](https://github.com/HimanS-sys/alzheimers-disease-prediction/blob/main/dimentia_pred.ipynb).
-- [Click here!]() to view this notebook interactively without running.
+
 
 ### 3D CNN Model on T1-weighted MRI Scans
 
 - 3D CNN model was used on T1 weighted MRI scans of OASIS 2 data.
-- download this [notebook]()
+- download this [notebook](https://github.com/HimanS-sys/alzheimers-disease-prediction/blob/main/Oasis2_Image_Data.ipynb).
+
+## Showcase
+- [Presentation slides](https://github.com/HimanS-sys/alzheimers-disease-prediction/blob/main/Presentation/alz_detection.pdf) for more details.
+- [Presntation video](https://github.com/HimanS-sys/alzheimers-disease-prediction/blob/main/Presentation/alz_detection.mp4).
