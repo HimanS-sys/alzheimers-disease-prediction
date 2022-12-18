@@ -1,9 +1,10 @@
 # Predicting the Risk of Alzheimer's Disease
 
 This repository contains work done as part of DS-2 course by [Univ.ai](https://www.univ.ai/).</br> 
-Our team - Himanshu, Samyak, Manikya</br>
-**App Description** - Ensemble models that predict the severity of Alzheimer's Disease.
+Our team - Himanshu, Samyak, Manikya
+
 ## Project
+Ensemble models that predict the severity of Alzheimer's Disease.
 <img src="https://github.com/HimanS-sys/alzheimers-disease-prediction/blob/main/assets/images/alz-disease-intro.png">
 
 - Alzheimer’s Disease is the most common disease of dementia.
