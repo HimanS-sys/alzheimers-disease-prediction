@@ -4,7 +4,9 @@ This repository contains work done as part of DS-2 course by [Univ.ai](https://w
 Our team - Himanshu, Samyak, Manikya
 
 ## Project
-Ensemble models that predict the severity of Alzheimer's Disease.
+
+- Ensemble models that predict the severity of Alzheimer's Disease.
+
 <img src="https://github.com/HimanS-sys/alzheimers-disease-prediction/blob/main/assets/images/alz-disease-intro.png">
 
 - Alzheimer’s Disease is the most common disease of dementia.
